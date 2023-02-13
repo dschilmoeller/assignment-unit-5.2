@@ -1,7 +1,23 @@
 /* Testing CSS for connection to index.html */
-
+/* 
 * {
     color: darkgreen;
+} */
+
+header {
+    background-color: darkgreen;
+    color: aquamarine;
+    text-align: center;
+} /* holy geocities batman */
+
+main {
+    background-color: lightgray;
+    padding: 1em;
 }
 
+body {
+    background-image: url(./record.png);
+    background-repeat: repeat;
+    margin: 0px;
 
+}
