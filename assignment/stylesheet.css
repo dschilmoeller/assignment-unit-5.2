@@ -4,20 +4,28 @@
     color: darkgreen;
 } */
 
-header {
+.topBar {
     background-color: darkgreen;
     color: aquamarine;
     text-align: center;
 } /* holy geocities batman */
 
-main {
+.mainRow {
     background-color: lightgray;
     padding: 1em;
 }
 
-body {
+.questions {
+    background-color: lightseagreen;
+    color: darkblue;
+    padding: 1em;
+}
+
+.bgImageContainer {
     background-image: url(./record.png);
     background-repeat: repeat;
-    margin: 0px;
+}
 
+body {
+    margin: 0px;
 }
